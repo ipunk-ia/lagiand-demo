@@ -4,7 +4,7 @@ import { motion } from 'motion/react';
 import { ChevronDown } from 'lucide-react';
 import { Button } from './ui/Button';
 
-const backgroundImage = 'hhttps://ibb.co.com/hGFGXQ8';
+const backgroundImage = 'https://image2url.com/r2/default/images/1775624360149-46012fb8-bc67-4361-ab7b-54e0b9de5a69.jpg';
 
 export default function Hero() {
   return (
